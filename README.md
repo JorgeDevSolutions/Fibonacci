@@ -1,0 +1,1 @@
+Este código implementa a sequência de Fibonacci, um padrão numérico onde cada número é a soma dos dois anteriores, começando por 0 e 1. O programa permite calcular os valores da sequência até um número específico, sendo útil para aprendizado de lógica de programação, otimização de algoritmos e aplicação em problemas matemáticos.
